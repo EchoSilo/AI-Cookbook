@@ -1,0 +1,8 @@
+# Ignore Venv Folders
+Include/
+Scripts/
+Lib/
+pyvenv.cfg
+.env
+*api_key*
+*apikey*
