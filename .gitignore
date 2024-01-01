@@ -7,6 +7,6 @@ Scripts/
 share/
 vectorstore/
 pyvenv.cfg
-.env
+.env*
 *api_key*
 *apikey*

@@ -1,0 +1,14 @@
+types-requests<2.31.0.7
+urllib3<2.0
+assemblyai
+langchain
+llama_index
+PyPDF2
+python-docx
+replicate
+streamlit
+streamlit_extras
+deeplake
+tabulate
+duckduckgo-search
+openai
