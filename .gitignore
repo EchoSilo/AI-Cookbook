@@ -10,3 +10,4 @@ pyvenv.cfg
 .env*
 *api_key*
 *apikey*
+*.m4a
